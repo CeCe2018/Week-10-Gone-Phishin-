@@ -15,7 +15,10 @@ I went into Spear-Phishing Attack Vectors category then chose "Create a FileForm
 I selected 1) Social-Engineering Attacks then 2) Website Attack Vectors and then 3) Credential Harvester Attack Method and lastly 2) Site Cloner.To perform the necessary steps needed to complete this Milestone.
 #Milestone 4
 ![screenshot 145](https://user-images.githubusercontent.com/23458001/41496265-2cab11e4-70f0-11e8-88ab-63be813529ab.png)
+Went on the internet browser in my VM and typed 127.0.0.1. Which took me to the fake Facebook login page.
 
 #Milestone 5
 ![screenshot 146](https://user-images.githubusercontent.com/23458001/41496266-3d4aea74-70f0-11e8-8121-3d8f928198f0.png)
-#Milestone 6
+I restored NAT networking, open the VirtualBox client and started by shutting down the Kali VM. Then I right-clicked on the Kali VM listed in VirtualBox and click Settings. In the dialog that opens, I clicked the Network heading, and the dialog displayed the tab for Adapter 1, 
+
+
